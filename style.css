@@ -1,0 +1,97 @@
+.hero h1 {
+    position: absolute;
+    top: 0;
+    right: 5;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    z-index: 10;
+    color: rgba(255, 252, 252, 0.487);
+    font-weight: bold;
+    font-size: 70px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.hero img {
+    width: 100%;
+    height: 650px;
+}
+
+
+
+.mid h3 {
+    padding: 20px;
+    margin: 15px;
+    color: rgba(0, 0, 0, 0.625);
+    text-decoration: underline;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.btn {
+    padding: 20px;
+    margin: 20px;
+ 
+ }
+
+.card img {
+    
+    border: none;
+}
+.row{
+    padding: 2%;
+    margin: 2%;
+   
+}
+.service img{
+    width: 100%;
+    height: 100%;
+}
+.ul{
+    border-color: rgba(128, 128, 128, 0.308);
+}
+.main h2{
+    padding: 3%;
+    margin: 3%;
+    font-family: 'Quicksand', sans-serif;
+}
+.card-img{
+    width: 100%;
+}
+.caption{
+   
+    padding: 5%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.141);
+}
+.caption h6{
+    
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+.last h2{
+    margin: 5%;
+    color: rgba(115, 25, 179, 0.5);
+    font-size: 45px;
+}
+.info img{
+      width: 30%;
+      height: 30%;
+}
+
+.team h1{
+    font-size: 70px;
+
+}
+.right a{
+    color: white;
+}
+
+.fixed-top{
+    background-color: rgb(128, 128, 128);
+    color: rgba(139, 0, 0, 0.744);
+}
