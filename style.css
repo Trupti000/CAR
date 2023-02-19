@@ -95,3 +95,15 @@
     background-color: rgb(128, 128, 128);
     color: rgba(139, 0, 0, 0.744);
 }
+footer h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: 20px;
+
+}
+footer{
+    margin-top: 5%;
+}   
+  
